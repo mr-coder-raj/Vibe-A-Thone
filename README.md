@@ -1,12 +1,45 @@
-# React + Vite
+# Sneaker Deals Voice Agent
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek React web app that lets users enter sneaker product info and start a voice agent call powered by OmniDimension AI. It also displays the top sneaker deals dynamically with dark/light mode support and smooth UI transitions.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Demo
 
-## Expanding the ESLint configuration
+Check out the live app here: [Sneaker Deals Voice Agent](https://mr-coder-raj.github.io/Vibe-A-Thone/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Features
+
+- Input form for product name, size, and email
+- Start voice call using OmniDimension AI agent
+- View top 3 sneaker deals with seller, price, and delivery info
+- Dark and Light mode toggle with smooth transitions
+- Responsive and modern UI with Tailwind CSS
+
+---
+
+## Tech Stack
+
+- React (with functional components and hooks)
+- Tailwind CSS for styling
+- Axios for HTTP requests
+- OmniDimension AI API for voice agent calls
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js installed
+- An OmniDimension API key and Agent ID (sign up on OmniDimension platform)
+
+### Installation
+
+1. Clone the repo
+
+```bash
+git clone https://github.com/mr-coder-raj/Vibe-A-Thone.git
+cd Vibe-A-Thone
