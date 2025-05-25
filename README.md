@@ -6,7 +6,7 @@ A sleek React web app that lets users enter sneaker product info and start a voi
 
 ## Demo
 
-Check out the live app here: [Sneaker Deals Voice Agent](https://mr-coder-raj.github.io/Vibe-A-Thone/)
+Check out the live app here: [Sneaker Deals Voice Agent](https://vibe-a-thone.vercel.app/)
 
 ---
 
